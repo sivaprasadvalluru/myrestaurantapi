@@ -1,0 +1,5 @@
+api:
+  groupId: "${api.groupId}"
+  artifactId: "${api.artifactId}"
+  version: "${api.version}"
+  spec: "resource::${api.groupId}:${api.artifactId}:${api.version}:raml:zip:sw-restaurants-sapi-raml.raml"
