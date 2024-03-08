@@ -38,6 +38,7 @@
 					<plugin>
 						<groupId>org.mule.tools.maven</groupId>
 						<artifactId>mule-maven-plugin</artifactId>
+						<version>4.0.0</version>
 						<extensions>true</extensions>
 						<configuration>
 							<cloudHubDeployment>
